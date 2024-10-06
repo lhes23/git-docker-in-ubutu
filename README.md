@@ -3,17 +3,17 @@
 ## Download the installation file
 
 ```
-curl -o install-docker.sh https://raw.githubusercontent.com/lhes23/git-docker-in-ubutu/refs/heads/main/install.sh
+curl -o install-git-docker.sh https://raw.githubusercontent.com/lhes23/git-docker-in-ubutu/refs/heads/main/install.sh
 ```
 
 ## Make it executable
 
 ```
-chmod +x install.sh
+chmod +x install-git-docker.sh
 ```
 
 ## Run the installation
 
 ```
-./install.sh
+./install-git-docker.sh
 ```
